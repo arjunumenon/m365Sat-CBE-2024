@@ -1,0 +1,149 @@
+[
+  {
+    "sample": {
+      "id": "pnp-add-app-catalog",
+      "properties": {
+        "title": "CLI - Add App Catalog to SharePoint site",
+        "description": "Script will create an app catalog for that site.",
+        "authors@odata.type": "Collection(String)",
+        "authors": [
+          "David Ramalho"
+        ],
+        "authorsPictures@odata.type": "Collection(String)",
+        "authorsPictures": [
+          null
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/pnp/cli-microsoft365/main/docs/docs/sample-scripts/spo/add-app-catalog/assets/preview.png",
+        "iconUrl": "https://raw.githubusercontent.com/pnp/media/master/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png",
+        "url": "https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-add-app-catalog/",
+        "createdDateTime": "2020-03-28T00:00:00.000Z",
+        "lastModifiedDateTime": "2023-02-28T00:00:00.000Z",
+        "products@odata.type": "Collection(String)",
+        "products": [
+          "SharePoint"
+        ],
+        "metadata@odata.type": "Collection(String)",
+        "metadata": [
+          "CLI-FOR-MICROSOFT365=6.3.0"
+        ]
+      },
+      "content": {
+        "value": "Script will create an app catalog for that site.",
+        "type": "text"
+      },
+      "acl": [
+        {
+          "accessType": "grant",
+          "type": "everyone",
+          "value": "everyone"
+        }
+      ]
+    },
+    "error": {
+      "statusCode": 500,
+      "code": "GeneralException",
+      "requestId": "bdfcf437-600f-47a9-bd34-add2c2261df8",
+      "date": "2024-10-05T02:25:48.000Z",
+      "body": "{\"code\":\"GeneralException\",\"message\":\"There was an internal server error while processing the request.\",\"innerError\":{\"date\":\"2024-10-05T07:55:48\",\"request-id\":\"bdfcf437-600f-47a9-bd34-add2c2261df8\",\"client-request-id\":\"a57b2169-ca10-42d8-27a0-a43ff87261a8\"}}",
+      "headers": {}
+    }
+  },
+  {
+    "sample": {
+      "id": "pnp-hide-list-from-site-contents",
+      "properties": {
+        "title": "CLI - Hide SharePoint list from Site Contents",
+        "description": "hides the SharePoint list from the UI.",
+        "authors@odata.type": "Collection(String)",
+        "authors": [
+          "David Ramalho"
+        ],
+        "authorsPictures@odata.type": "Collection(String)",
+        "authorsPictures": [
+          null
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/pnp/cli-microsoft365/main/docs/docs/sample-scripts/spo/hide-list-from-site-contents/assets/preview.png",
+        "iconUrl": "https://raw.githubusercontent.com/pnp/media/master/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png",
+        "url": "https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-hide-list-from-site-contents/",
+        "createdDateTime": "2020-03-28T00:00:00.000Z",
+        "lastModifiedDateTime": "2023-02-28T00:00:00.000Z",
+        "products@odata.type": "Collection(String)",
+        "products": [
+          "SharePoint"
+        ],
+        "metadata@odata.type": "Collection(String)",
+        "metadata": [
+          "CLI-FOR-MICROSOFT365=6.3.0"
+        ]
+      },
+      "content": {
+        "value": "hides the SharePoint list from the UI.",
+        "type": "text"
+      },
+      "acl": [
+        {
+          "accessType": "grant",
+          "type": "everyone",
+          "value": "everyone"
+        }
+      ]
+    },
+    "error": {
+      "statusCode": 500,
+      "code": "GeneralException",
+      "requestId": "73b08871-3537-4b27-8ea1-421f670dd5da",
+      "date": "2024-10-05T02:25:50.000Z",
+      "body": "{\"code\":\"GeneralException\",\"message\":\"There was an internal server error while processing the request.\",\"innerError\":{\"date\":\"2024-10-05T07:55:50\",\"request-id\":\"73b08871-3537-4b27-8ea1-421f670dd5da\",\"client-request-id\":\"bed5ae6f-28aa-a4b7-d8ad-4843eb92c1fe\"}}",
+      "headers": {}
+    }
+  },
+  {
+    "sample": {
+      "id": "pnp-ensure-siteassets-library",
+      "properties": {
+        "title": "Ensure the Site Assets Library is created",
+        "description": "Ensure that the Site Assets library is created.",
+        "authors@odata.type": "Collection(String)",
+        "authors": [
+          "Phil Harding"
+        ],
+        "authorsPictures@odata.type": "Collection(String)",
+        "authorsPictures": [
+          null
+        ],
+        "imageUrl": "https://raw.githubusercontent.com/pnp/cli-microsoft365/main/docs/docs/sample-scripts/spo/ensure-siteassets-library/assets/preview.png",
+        "iconUrl": "https://raw.githubusercontent.com/pnp/media/master/pnp-logos-generics/png/teal/300w/pnp-samples-teal-300.png",
+        "url": "https://adoption.microsoft.com/sample-solution-gallery/sample/pnp-ensure-siteassets-library/",
+        "createdDateTime": "2020-04-12T00:00:00.000Z",
+        "lastModifiedDateTime": "2023-02-28T00:00:00.000Z",
+        "products@odata.type": "Collection(String)",
+        "products": [
+          "SharePoint"
+        ],
+        "metadata@odata.type": "Collection(String)",
+        "metadata": [
+          "CLI-FOR-MICROSOFT365=6.3.0"
+        ]
+      },
+      "content": {
+        "value": "Ensure that the Site Assets library is created.",
+        "type": "text"
+      },
+      "acl": [
+        {
+          "accessType": "grant",
+          "type": "everyone",
+          "value": "everyone"
+        }
+      ]
+    },
+    "error": {
+      "statusCode": 500,
+      "code": "GeneralException",
+      "requestId": "64ebfb57-4587-41b2-b792-a8728242b1dd",
+      "date": "2024-10-05T02:25:50.000Z",
+      "body": "{\"code\":\"GeneralException\",\"message\":\"There was an internal server error while processing the request.\",\"innerError\":{\"date\":\"2024-10-05T07:55:50\",\"request-id\":\"64ebfb57-4587-41b2-b792-a8728242b1dd\",\"client-request-id\":\"7f7cfad2-5fb0-7715-fc52-f3d935fa7b0d\"}}",
+      "headers": {}
+    }
+  }
+]

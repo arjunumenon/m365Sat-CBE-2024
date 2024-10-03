@@ -1,6 +1,6 @@
-# SESSION NAME
+# M365 Saturday Coimbatore 2024
 
-This repository has the deck which is used by Arjun Menon in SESSION for the session **TOPIC NAME**
+This repository has the codes which is used by Arjun Menon in M365 Saturday Coimbatore 2024 for the session **Copilot for developer productivity - Building a MS Graph connector**
 
 ## Pre-requisites
 
